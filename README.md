@@ -43,7 +43,11 @@ My work integrates:
   🔗 https://github.com/annapatricia/API-SAUDE-PUBLICA-COM-GUARDRAILS
 
 - **Projeto Escola – Ciência de Dados** — Data-driven educational initiative applied to public institutions.  
-  🔗 https://github.com/annapatricia/projeto_escola-CienciaDados-
+  🔗 https://github.com/annapatricia/projeto_escola-CienciaDados
+
+
+
+  --- 
 
 
 ## 🏢 Governance, Risk & Compliance (GRC) Analytics
