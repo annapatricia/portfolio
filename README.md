@@ -59,6 +59,16 @@ My work integrates:
 
 ## 🌍 Computational Social Science (Networks & Opinion Dynamics)
 
+- **Opinion Dynamics & Polarization Model** — Simulation of opinion formation and emotional contagion in scale-free and binomial networks.  
+  🔗 https://github.com/annapatricia/opinion-dynamics-polarization-thesis
+
+- **Multi-Agent Opinion Rendering** — Agent-based modeling of social dynamics and interaction systems.  
+  🔗 https://github.com/annapatricia/multiagente_render
+
+- **Reinforcement Learning Portfolio Strategy** — Adaptive learning strategy modeling using reinforcement learning approaches.  
+  🔗 https://github.com/annapatricia/reinforcement-learning-portfolio-strategy
+
+
 ---
 
 ## 📊 Causal Inference & Econometrics
