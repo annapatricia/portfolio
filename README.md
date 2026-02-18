@@ -39,7 +39,7 @@ My work integrates:
 - **CCD GIS MVP** — GIS-based minimum viable product for territorial data visualization and spatial decision support.  
   🔗 https://github.com/annapatricia/ccd-gis-mvp
 
-  - **Public Security Analytics (FGV Pre-Project)** — Machine learning and network analysis applied to public security data, including clustering (KMeans, DBSCAN), NLP techniques and graph-based visualization.  
+- **Public Security Analytics (FGV Pre-Project)** — Machine learning and network analysis applied to public security data, including clustering (KMeans, DBSCAN), NLP techniques and graph-based visualization.  
   🔗 https://github.com/annapatricia/SEGURAN-A_PUBLICA_SP_FGV
 
 - **Geo Policy Impact** — Spatial evaluation of territorial public policies using GIS and concentration metrics.  
@@ -66,9 +66,6 @@ My work integrates:
 
 - **Opinion Dynamics & Polarization Model** — Simulation of opinion formation and emotional contagion in scale-free and binomial networks.  
   🔗 https://github.com/annapatricia/opinion-dynamics-polarization-thesis
-
-- **Reinforcement Learning Portfolio Strategy** — Adaptive learning strategy modeling using reinforcement learning approaches.  
-  🔗 https://github.com/annapatricia/reinforcement-learning-portfolio-strategy
 
 
 ---
@@ -132,6 +129,9 @@ My work integrates:
 
   - **ai-multi-agent-system** — Agent-based modeling of social dynamics and interaction systems.  
   🔗 https://github.com/annapatricia/ai-multi-agent-system
+
+- **Reinforcement Learning Portfolio Strategy** — Adaptive learning strategy modeling using reinforcement learning approaches.  
+  🔗 https://github.com/annapatricia/reinforcement-learning-portfolio-strategy
 
 
 ---
