@@ -13,7 +13,24 @@ My work integrates:
 
 ## 🌟 Featured Projects
 
-(coming soon)
+- **Geo Policy Impact** — Geospatial analytics for evaluating territorial public policies using spatial concentration metrics and GIS tools.  
+  🔗 https://github.com/annapatricia/geo-policy-impact
+
+- **Opinion Dynamics & Polarization Model** — Computational simulation of opinion formation and contagion in complex networks.  
+  🔗 https://github.com/annapatricia/opinion-dynamics-polarization-thesis
+
+- **AI Agent NLP Pipeline** — LLM-based agent architecture with embeddings, guardrails and API integration.  
+  🔗 https://github.com/annapatricia/ai-agent-nlp-pipeline
+
+- **TCGA ML SHAP Analysis** — Machine learning applied to clinical/genomic data with SHAP interpretability.  
+  🔗 https://github.com/annapatricia/tcga-ml-shap
+
+- **Radar Nowcasting ML** — Predictive modeling for meteorological radar data.  
+  🔗 https://github.com/annapatricia/radar-nowcasting-ml
+
+- **Assets Under Custody Analytics** — Time-series financial analytics pipeline designed for cloud-ready architecture.  
+  🔗 https://github.com/annapatricia/assets-under-custody-analytics
+
 
 ---
 
