@@ -42,9 +42,6 @@ My work integrates:
 - **Geo Policy Impact** — Spatial evaluation of territorial public policies using GIS and concentration metrics.  
   🔗 https://github.com/annapatricia/geo-policy-impact
 
-- **API Saúde Pública com Guardrails** — AI-integrated architecture for public health systems.  
-  🔗 https://github.com/annapatricia/API-SAUDE-PUBLICA-COM-GUARDRAILS
-
 - **Projeto Escola – Ciência de Dados** — Data-driven educational initiative applied to public institutions.  
   🔗 https://github.com/annapatricia/projeto_escola-CienciaDados
 
