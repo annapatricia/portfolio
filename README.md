@@ -34,21 +34,27 @@ My work integrates:
 
 ---
 
-## 🏛 Public Policy & Governance Analytics
+## 🏛 Public Policy Analytics
 
-- **Geo Policy Impact** — Spatial analytics applied to territorial public policy evaluation.  
+- **Geo Policy Impact** — Spatial evaluation of territorial public policies using GIS and concentration metrics.  
   🔗 https://github.com/annapatricia/geo-policy-impact
 
-- **Central de Riscos SCR Case** — Financial risk and regulatory analytics case study.  
-  🔗 https://github.com/annapatricia/central-riscos-scr-case
-
-- **Accounting Assurance Monitor (AWS)** — Governance and compliance analytics pipeline with cloud-ready architecture.  
-  🔗 https://github.com/annapatricia/accounting-assurance-monitor
-
-- **API Saúde Pública com Guardrails** — Public health API architecture integrating AI safety layers.  
+- **API Saúde Pública com Guardrails** — AI-integrated architecture for public health systems.  
   🔗 https://github.com/annapatricia/API-SAUDE-PUBLICA-COM-GUARDRAILS
 
-- **People Analytics KPI** — Institutional monitoring system for performance and policy compliance.  
+- **Projeto Escola – Ciência de Dados** — Data-driven educational initiative applied to public institutions.  
+  🔗 https://github.com/annapatricia/projeto_escola-CienciaDados-
+
+
+## 🏢 Governance, Risk & Compliance (GRC) Analytics
+
+- **Central de Riscos SCR Case** — Regulatory financial risk analytics and structured monitoring system.  
+  🔗 https://github.com/annapatricia/central-riscos-scr-case
+
+- **Accounting Assurance Monitor (AWS)** — Cloud-ready governance and compliance analytics pipeline.  
+  🔗 https://github.com/annapatricia/accounting-assurance-monitor
+
+- **People Analytics KPI** — Institutional performance monitoring and compliance analytics framework.  
   🔗 https://github.com/annapatricia/people-analytics-kpi
 
 
