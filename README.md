@@ -67,9 +67,6 @@ My work integrates:
 - **Opinion Dynamics & Polarization Model** — Simulation of opinion formation and emotional contagion in scale-free and binomial networks.  
   🔗 https://github.com/annapatricia/opinion-dynamics-polarization-thesis
 
-- **Multi-Agent Opinion Rendering** — Agent-based modeling of social dynamics and interaction systems.  
-  🔗 https://github.com/annapatricia/multiagente_render
-
 - **Reinforcement Learning Portfolio Strategy** — Adaptive learning strategy modeling using reinforcement learning approaches.  
   🔗 https://github.com/annapatricia/reinforcement-learning-portfolio-strategy
 
@@ -132,6 +129,9 @@ My work integrates:
 
 - **Serviço Agente FastAPI** — Production-ready API service for AI agent deployment.  
   🔗 https://github.com/annapatricia/servico-agente-fastapi
+
+  - **ai-multi-agent-system** — Agent-based modeling of social dynamics and interaction systems.  
+  🔗 https://github.com/annapatricia/ai-multi-agent-system
 
 
 ---
