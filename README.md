@@ -159,3 +159,6 @@ My work integrates:
 - **Aulas & Academic Materials** — Teaching materials and structured content for data science, networks and computational modeling.  
   🔗 https://github.com/annapatricia/Aulas
 
+- **PhD Thesis (Full Version)** — Complete doctoral research on polarization dynamics and network contagion.  
+  🔗 LINK_AQUI
+
