@@ -36,19 +36,14 @@ My work integrates:
 
 ## 🏛 Public Policy Analytics
 
- **CCD GIS MVP** — GIS-based minimum viable product for territorial data visualization and spatial decision support.  
+- **CCD GIS MVP** — GIS-based minimum viable product for territorial data visualization and spatial decision support.  
   🔗 https://github.com/annapatricia/ccd-gis-mvp
 
 - **Geo Policy Impact** — Spatial evaluation of territorial public policies using GIS and concentration metrics.  
   🔗 https://github.com/annapatricia/geo-policy-impact
 
-- **Projeto Escola – Ciência de Dados** — Data-driven educational initiative applied to public institutions.  
-  🔗 https://github.com/annapatricia/projeto_escola-CienciaDados
-
-
 
   --- 
-
 
 ## 🏢 Governance, Risk & Compliance (GRC) Analytics
 
