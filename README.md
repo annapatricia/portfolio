@@ -36,6 +36,9 @@ My work integrates:
 
 ## 🏛 Public Policy Analytics
 
+ **CCD GIS MVP** — GIS-based minimum viable product for territorial data visualization and spatial decision support.  
+  🔗 https://github.com/annapatricia/ccd-gis-mvp
+
 - **Geo Policy Impact** — Spatial evaluation of territorial public policies using GIS and concentration metrics.  
   🔗 https://github.com/annapatricia/geo-policy-impact
 
