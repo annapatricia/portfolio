@@ -133,6 +133,29 @@ My work integrates:
 
 ## 🎮 Educational Tech & Games
 
+- **Jogo Balões (JavaScript Game)** — Interactive educational game developed with HTML, CSS and JavaScript.  
+  🔗 https://github.com/annapatricia/jogo-baloes-js
+
+- **STEAM Math Data Visualizations** — Educational data visualization project integrating mathematics and computational tools.  
+  🔗 https://github.com/annapatricia/steam-math-data-visualizations
+
+- **Projeto Escola – Ciência de Dados** — Data science education initiative applied to school environments.  
+  🔗 https://github.com/annapatricia/projeto_escola-CienciaDados-
+
+- **Guardrails Escola Funções** — Educational AI safety implementation for structured learning systems.  
+  🔗 https://github.com/annapatricia/guardails-escola-funcoes
+
+- **Projeto Escola (General Framework)** — Educational computational framework for applied learning in data science.  
+  🔗 https://github.com/annapatricia/PROJETO_ESCOLA
+
+
 ---
 
 ## 🎓 Research & Theoretical Work
+
+- **Opinion Dynamics & Polarization (Doctoral Research)** — Computational and theoretical study of opinion formation, emotional contagion and polarization in complex networks.  
+  🔗 https://github.com/annapatricia/opinion-dynamics-polarization-thesis
+
+- **Aulas & Academic Materials** — Teaching materials and structured content for data science, networks and computational modeling.  
+  🔗 https://github.com/annapatricia/Aulas
+
