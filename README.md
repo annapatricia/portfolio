@@ -51,9 +51,6 @@ My work integrates:
 - **People Analytics KPI** — Institutional monitoring system for performance and policy compliance.  
   🔗 https://github.com/annapatricia/people-analytics-kpi
 
-- **Projeto Escola Ciência de Dados** — Data-driven educational initiative applied to public institutions.  
-  🔗 https://github.com/annapatricia/projeto_escola-CienciaDados-
-
 
 ---
 
@@ -147,6 +144,9 @@ My work integrates:
 
 - **Projeto Escola (General Framework)** — Educational computational framework for applied learning in data science.  
   🔗 https://github.com/annapatricia/PROJETO_ESCOLA
+
+- **Projeto Escola Ciência de Dados** — Data-driven educational initiative applied to public institutions.  
+  🔗 https://github.com/annapatricia/projeto_escola-CienciaDados-
 
 
 ---
