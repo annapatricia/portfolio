@@ -73,13 +73,61 @@ My work integrates:
 
 ## 📊 Causal Inference & Econometrics
 
+- **Assets Under Custody Analytics** — Time-series financial analysis and indicator construction for institutional monitoring.  
+  🔗 https://github.com/annapatricia/assets-under-custody-analytics
+
+- **AUC Monthly Indicator** — Financial aggregation and monthly indicator modeling pipeline.  
+  🔗 https://github.com/annapatricia/auc-monthly-indicator
+
+- **Assurance Contábil Analytics (AWS)** — Cloud-ready accounting analytics workflow for compliance and auditing.  
+  🔗 https://github.com/annapatricia/assurance-contabil-analytics-aws
+
+- **Central de Riscos SCR Case** — Regulatory financial analytics and structured risk modeling case.  
+  🔗 https://github.com/annapatricia/central-riscos-scr-case
+
+- **Financeiro Analytics Project** — Structured financial modeling and institutional metrics analysis.  
+  🔗 https://github.com/annapatricia/financeiro
+
+
 ---
 
 ## 🗺 Spatial & Geopolitical Analytics (GIS)
 
+- **Geo Policy Impact** — Geospatial public policy evaluation using spatial aggregation, concentration metrics and interactive mapping.  
+  🔗 https://github.com/annapatricia/geo-policy-impact
+
+- **CCD GIS MVP** — GIS-based minimum viable product for territorial data visualization and spatial decision support.  
+  🔗 https://github.com/annapatricia/ccd-gis-mvp
+
+
 ---
 
 ## 🤖 Applied AI & Machine Learning (NLP, Agents, ML)
+
+- **AI Agent NLP Pipeline** — LLM-based agent architecture with embeddings, guardrails and API integration.  
+  🔗 https://github.com/annapatricia/ai-agent-nlp-pipeline
+
+- **Chatbot RAG (Render Deployment)** — Retrieval-Augmented Generation system deployed via Render.  
+  🔗 https://github.com/annapatricia/Chatbot-RAG-Render
+
+- **Lex Lambda Chatbot** — AWS Lex + Lambda conversational AI integration.  
+  🔗 https://github.com/annapatricia/lex-lambda-chatbot
+
+- **Radar Nowcasting ML** — Machine learning for meteorological radar forecasting.  
+  🔗 https://github.com/annapatricia/radar-nowcasting-ml
+
+- **TCGA ML SHAP Analysis** — Clinical/genomic predictive modeling with interpretability (SHAP).  
+  🔗 https://github.com/annapatricia/tcga-ml-shap
+
+- **Recycled Polymer Blend Optimizer** — Optimization model for material performance prediction.  
+  🔗 https://github.com/annapatricia/recycled-polymer-blend-optimizer
+
+- **Customer Health Risk Dashboard** — Predictive analytics dashboard for risk monitoring.  
+  🔗 https://github.com/annapatricia/customer-health-risk-dashboard
+
+- **Serviço Agente FastAPI** — Production-ready API service for AI agent deployment.  
+  🔗 https://github.com/annapatricia/servico-agente-fastapi
+
 
 ---
 
