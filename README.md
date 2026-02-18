@@ -39,6 +39,9 @@ My work integrates:
 - **CCD GIS MVP** — GIS-based minimum viable product for territorial data visualization and spatial decision support.  
   🔗 https://github.com/annapatricia/ccd-gis-mvp
 
+  - **Public Security Analytics (FGV Pre-Project)** — Machine learning and network analysis applied to public security data, including clustering (KMeans, DBSCAN), NLP techniques and graph-based visualization.  
+  🔗 https://github.com/annapatricia/SEGURAN-A_PUBLICA_SP_FGV
+
 - **Geo Policy Impact** — Spatial evaluation of territorial public policies using GIS and concentration metrics.  
   🔗 https://github.com/annapatricia/geo-policy-impact
 
