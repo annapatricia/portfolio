@@ -103,6 +103,11 @@ My work integrates:
 
 ## 🤖 Applied AI & Machine Learning (NLP, Agents, ML)
 
+## 🤖 Applied AI & Machine Learning (NLP, Agents, ML)
+
+- **Information Vulnerability Analyzer (LLM + RAG + MLOps + Docker)** — AI engineering project for detection of informational vulnerability patterns using heuristic risk scoring, vector database retrieval (ChromaDB), and LLM-based explanation (Ollama). Includes FastAPI REST API, Prometheus metrics, structured logging, Docker containerization and reproducible deployment architecture.  
+  🔗 https://github.com/annapatricia/info-vulnerability-analyzer
+
 - **AI Agent NLP Pipeline** — LLM-based agent architecture with embeddings, guardrails and API integration.  
   🔗 https://github.com/annapatricia/ai-agent-nlp-pipeline
 
