@@ -98,7 +98,25 @@ My work integrates:
 - **CCD GIS MVP** — GIS-based minimum viable product for territorial data visualization and spatial decision support.  
   🔗 https://github.com/annapatricia/ccd-gis-mvp
 
+---
+## 📊 Machine Learning & Predictive Modeling
+End-to-end supervised learning pipelines for structured data and applied predictive modeling, including feature engineering, model selection, evaluation, experiment tracking, and lightweight MLOps practices.
 
+- **Credit Default Prediction Pipeline (Logistic Regression + CI + MLOps)
+End-to-end supervised ML pipeline for credit risk prediction using Logistic Regression. Includes structured data preprocessing, model training, evaluation (ROC AUC, precision/recall), experiment metadata logging, quality gates, and CI automation via GitHub Actions. Model artifacts managed separately from code and exported as CI artifacts.
+
+Key components:
+Pipeline (StandardScaler + LogisticRegression)
+Unit testing (pytest)
+Quality threshold validation (AUC gate)
+Experiment metadata logging
+Reproducible execution (run_all)
+CLI-based inference (predict.py)
+CI artifact versioning (metrics.json + run_info.json)
+🔗 https://github.com/annapatricia/credit-default-logreg
+
+- **Reinforcement Learning Portfolio Strategy** — Adaptive learning strategy modeling using reinforcement learning approaches.  
+  🔗 https://github.com/annapatricia/reinforcement-learning-portfolio-strategy
 ---
 
 ## 🤖 Applied AI & Machine Learning (NLP, Agents, ML)
@@ -132,9 +150,6 @@ My work integrates:
 
   - **ai-multi-agent-system** — Agent-based modeling of social dynamics and interaction systems.  
   🔗 https://github.com/annapatricia/ai-multi-agent-system
-
-- **Reinforcement Learning Portfolio Strategy** — Adaptive learning strategy modeling using reinforcement learning approaches.  
-  🔗 https://github.com/annapatricia/reinforcement-learning-portfolio-strategy
 
 
 ---
