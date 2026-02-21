@@ -101,16 +101,8 @@ End-to-end supervised learning pipelines for structured data and applied predict
 
 - **Credit Default Prediction Pipeline (Logistic Regression + CI + MLOps)**
 End-to-end supervised ML pipeline for credit risk prediction using Logistic Regression. Includes structured data preprocessing, model training, evaluation (ROC AUC, precision/recall), experiment metadata logging, quality gates, and CI automation via GitHub Actions. Model artifacts managed separately from code and exported as CI artifacts.
-
-Key components:
-Pipeline (StandardScaler + LogisticRegression)
-Unit testing (pytest)
-Quality threshold validation (AUC gate)
-Experiment metadata logging
-Reproducible execution (run_all)
-CLI-based inference (predict.py)
-CI artifact versioning (metrics.json + run_info.json)
 🔗 https://github.com/annapatricia/credit-default-logreg
+---
 
 - **Reinforcement Learning Portfolio Strategy** — Adaptive learning strategy modeling using reinforcement learning approaches.  
   🔗 https://github.com/annapatricia/reinforcement-learning-portfolio-strategy
