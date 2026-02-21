@@ -99,7 +99,7 @@ My work integrates:
 ## 📊 Machine Learning & Predictive Modeling
 End-to-end supervised learning pipelines for structured data and applied predictive modeling, including feature engineering, model selection, evaluation, experiment tracking, and lightweight MLOps practices.
 
-- **Credit Default Prediction Pipeline (Logistic Regression + CI + MLOps)
+- **Credit Default Prediction Pipeline (Logistic Regression + CI + MLOps)**
 End-to-end supervised ML pipeline for credit risk prediction using Logistic Regression. Includes structured data preprocessing, model training, evaluation (ROC AUC, precision/recall), experiment metadata logging, quality gates, and CI automation via GitHub Actions. Model artifacts managed separately from code and exported as CI artifacts.
 
 Key components:
