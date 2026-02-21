@@ -84,9 +84,6 @@ My work integrates:
 - **Central de Riscos SCR Case** — Regulatory financial analytics and structured risk modeling case.  
   🔗 https://github.com/annapatricia/central-riscos-scr-case
 
-- **Financeiro Analytics Project** — Structured financial modeling and institutional metrics analysis.  
-  🔗 https://github.com/annapatricia/financeiro
-
 
 ---
 
