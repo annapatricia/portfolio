@@ -49,6 +49,8 @@ My work integrates:
   --- 
 
 ## 🏢 Governance, Risk & Compliance (GRC) Analytics
+- **Model Risk Scorecard (MRM)** — Model governance framework for machine learning systems including model inventory, risk tiering (materiality/complexity/usage), validation thresholds, fairness checks and automated model risk scorecard generation.
+🔗 https://github.com/annapatricia/model-risk-scorecard
 
 - **Central de Riscos SCR Case** — Regulatory financial risk analytics and structured monitoring system.  
   🔗 https://github.com/annapatricia/central-riscos-scr-case
